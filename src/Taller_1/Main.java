@@ -113,16 +113,24 @@ public class Main {
 //    menor que el número a adivinar.
 
 //        int numRandom = new Random().nextInt(100)+1;
-//        Integer numUsuario = Integer.parseInt(JOptionPane.showInputDialog("Ingrese un numero"));
 //
-//        if(numUsuario > numRandom){
-//            JOptionPane.showMessageDialog(null, "el numero ingresado es mayor que el numero a adivinar");
+//        boolean i = true;
 //
-//        } else if (numUsuario < numRandom) {
-//            JOptionPane.showMessageDialog(null, "el numero ingresado es menor que el numero a adivinar");
-//        }else{
-//            JOptionPane.showMessageDialog(null, "Adivinaste el numero");
+//        while(i) {
+//            Integer numUsuario = Integer.parseInt(JOptionPane.showInputDialog("Ingrese un numero"));
+//
+//            if (numUsuario > numRandom) {
+//                JOptionPane.showMessageDialog(null, "el numero ingresado es mayor que el numero a adivinar");
+//            } else if (numUsuario < numRandom) {
+//                JOptionPane.showMessageDialog(null, "el numero ingresado es menor que el numero a adivinar");
+//            } else {
+//                JOptionPane.showMessageDialog(null, "Adivinaste el numero");
+//                i = false;
+//            }
+//
 //        }
+
+
 
 //
 //---------------------------------------------------------------------------------------------------------//
