@@ -20,12 +20,19 @@ public class Main {
 //        int suma = Integer.parseInt(num1) + Integer.parseInt(num2);
 //        int resta = Integer.parseInt(num1) - Integer.parseInt(num2);
 //        int multip = Integer.parseInt(num1) * Integer.parseInt(num2);
-//        double division = Double.parseDouble(num1) / Double.parseDouble(num2);
 //
 //        JOptionPane.showMessageDialog(null, "la suma de los numeros es: "+ suma);
 //        JOptionPane.showMessageDialog(null, "la resta de los numeros es: "+ resta);
 //        JOptionPane.showMessageDialog(null, "la multiplicacion de los numeros es: "+ multip);
-//        JOptionPane.showMessageDialog(null, "la division de los numeros es: "+ division);
+//
+//        double division = Double.parseDouble(num1) / Double.parseDouble(num2);
+//        if(Double.parseDouble(num2) == 0){
+//            throw new ArithmeticException("no se pude dividir entre cero");
+//        }else{
+//            JOptionPane.showMessageDialog(null, "la division de los numeros es: " + division);
+//        }
+
+
 //
 //------------------------------------------------------------------------------------------------------//
 

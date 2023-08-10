@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db7ccb28-d594-4638-ac10-7b8d4dc62d5d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Taller_1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Taller_1/Main.java" afterDir="false" />
     </list>
@@ -33,24 +34,13 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "last_opened_file_path": "D:/Semillero_Softlond/primeros-pasos",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Taller_1.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Taller_2.Main" />
-      <module name="Talleres" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Taller_2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Taller_2.SistemaReservasHotel.Main">
     <configuration name="Taller_1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Taller_1.Main" />
       <module name="Talleres" />
@@ -64,10 +54,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Taller_2.CalculadoraSimple.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Taller_2.CalculadoraSimple.Main" />
+      <module name="Talleres" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Taller_2.CalculadoraSimple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Taller_2.ConversorMonedas.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Taller_2.ConversorMonedas.Main" />
+      <module name="Talleres" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Taller_2.ConversorMonedas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Taller_2.RegistroAlumnos.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Taller_2.RegistroAlumnos.Main" />
+      <module name="Talleres" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Taller_2.RegistroAlumnos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Taller_2.SistemaReservasHotel.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Taller_2.SistemaReservasHotel.Main" />
+      <module name="Talleres" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Taller_2.SistemaReservasHotel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Taller_2.SistemaReservasHotel.Main" />
+        <item itemvalue="Application.Taller_2.RegistroAlumnos.Main" />
+        <item itemvalue="Application.Taller_2.ConversorMonedas.Main" />
+        <item itemvalue="Application.Taller_2.CalculadoraSimple.Main" />
         <item itemvalue="Application.Taller_1.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -79,7 +124,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1690861163423</updated>
-      <workItem from="1690861165388" duration="83657000" />
+      <workItem from="1690861165388" duration="125748000" />
+      <workItem from="1691602282455" duration="25526000" />
     </task>
     <servers />
   </component>
@@ -96,5 +142,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
