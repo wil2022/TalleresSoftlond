@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db7ccb28-d594-4638-ac10-7b8d4dc62d5d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Taller_1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Taller_1/Main.java" afterDir="false" />
     </list>
@@ -14,6 +13,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -36,17 +36,28 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Semillero_Softlond/primeros-pasos",
+    "last_opened_file_path": "D:/Semillero_Softlond/Talleres/src/Taller_3/FormasGeométricasAreas",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Taller_2.SistemaReservasHotel.Main">
-    <configuration name="Taller_1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Taller_1.Main" />
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Semillero_Softlond\Talleres\src\Taller_3\FormasGeométricasAreas" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Taller_3.FormasGeométricasAreas" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Taller_3.TiendaEnLínea.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Taller_3.FormasGeométricasAreas.Main" />
       <module name="Talleres" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Taller_1.*" />
+          <option name="PATTERN" value="Taller_3.FormasGeométricasAreas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -54,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Taller_2.CalculadoraSimple.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Taller_2.CalculadoraSimple.Main" />
+    <configuration name="Taller_3.InstrumentosMusicales.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Taller_3.InstrumentosMusicales.Main" />
       <module name="Talleres" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Taller_2.CalculadoraSimple.*" />
+          <option name="PATTERN" value="Taller_3.InstrumentosMusicales.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Taller_2.ConversorMonedas.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Taller_2.ConversorMonedas.Main" />
+    <configuration name="Taller_3.JuegoCartas.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Taller_3.JuegoCartas.Main" />
       <module name="Talleres" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Taller_2.ConversorMonedas.*" />
+          <option name="PATTERN" value="Taller_3.JuegoCartas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Taller_2.RegistroAlumnos.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Taller_2.RegistroAlumnos.Main" />
+    <configuration name="Taller_3.SistemaNotificaciones.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Taller_3.SistemaNotificaciones.Main" />
       <module name="Talleres" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Taller_2.RegistroAlumnos.*" />
+          <option name="PATTERN" value="Taller_3.SistemaNotificaciones.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Taller_2.SistemaReservasHotel.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Taller_2.SistemaReservasHotel.Main" />
+    <configuration name="Taller_3.TiendaEnLínea.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Taller_3.TiendaEnLínea.Main" />
       <module name="Talleres" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Taller_2.SistemaReservasHotel.*" />
+          <option name="PATTERN" value="Taller_3.TiendaEnLínea.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Taller_2.SistemaReservasHotel.Main" />
-        <item itemvalue="Application.Taller_2.RegistroAlumnos.Main" />
-        <item itemvalue="Application.Taller_2.ConversorMonedas.Main" />
-        <item itemvalue="Application.Taller_2.CalculadoraSimple.Main" />
-        <item itemvalue="Application.Taller_1.Main" />
+        <item itemvalue="Application.Taller_3.TiendaEnLínea.Main" />
+        <item itemvalue="Application.Taller_3.SistemaNotificaciones.Main" />
+        <item itemvalue="Application.Taller_3.JuegoCartas.Main" />
+        <item itemvalue="Application.Taller_3.InstrumentosMusicales.Main" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -125,7 +136,7 @@
       <option name="presentableId" value="Default" />
       <updated>1690861163423</updated>
       <workItem from="1690861165388" duration="125748000" />
-      <workItem from="1691602282455" duration="25526000" />
+      <workItem from="1691602282455" duration="108429000" />
     </task>
     <servers />
   </component>

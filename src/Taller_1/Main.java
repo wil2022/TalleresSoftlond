@@ -183,9 +183,9 @@ public class Main {
 //    11. Escribe un programa que calcule el área de un triángulo utilizando la fórmula
 //    de Herón. El usuario debe ingresar las longitudes de los tres lados.
 
-//        Integer ladoA = Integer.parseInt(JOptionPane.showInputDialog("Ingrese la longitud del lado A"));
-//        Integer ladoB = Integer.parseInt(JOptionPane.showInputDialog("Ingrese la longitud del lado B"));
-//        Integer ladoC = Integer.parseInt(JOptionPane.showInputDialog("Ingrese la longitud del lado C"));
+//        Double ladoA = Double.parseDouble(JOptionPane.showInputDialog("Ingrese la longitud del lado A"));
+//        Double ladoB = Double.parseDouble(JOptionPane.showInputDialog("Ingrese la longitud del lado B"));
+//        Double ladoC = Double.parseDouble(JOptionPane.showInputDialog("Ingrese la longitud del lado C"));
 //
 //        double s = (ladoA + ladoB + ladoC)/2;
 //
